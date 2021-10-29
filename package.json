@@ -1,0 +1,22 @@
+{
+  "name": "audiusjshook",
+  "version": "1.0.0",
+  "description": "Audius New Uploads Webhook (port) from my Python 3.10 Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaleVTuber/audiusJShook.git"
+  },
+  "author": "Ashe Muller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaleVTuber/audiusJShook/issues"
+  },
+  "homepage": "https://github.com/MaleVTuber/audiusJShook#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
